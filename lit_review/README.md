@@ -14,3 +14,46 @@ This folder contains the following:
 [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+***
+
+## Review
+| Title | Reviewers | Info |
+| ----------- | ----------- | ----------- |
+| Analysis of a cross-diffusion model for rival gangs interaction in a city | a, b |
+| Organised Crime Typologies- Structure, Activities and Conditions | a, b |
+| Gang Structures, Crime Patterns, and Police Responses | a, b |
+| Dimensions of Gang Issues at the National and International Level | a, b |
+| An Economic Analysis of a Drug-Selling Gang's Finances | a, b |
+| Recruitment into Organized Crime- An Agent‑Based Approach Testing the Impact of Different Policies | a, b |
+| Countering Protection Rackets Using Legal and Social Approaches- An Agent-Based Test | a, b |
+| Agent-Based Simulation of Organizational Behavior | a, b |
+| Modelling social agency using diachronic cognition- learning from the Mafia | a, b |
+| Simulating protection rackets- a case study of the Sicilian Mafia | a, b |
+| GLODERS-S_ASimulatorForAgentBasedModelsOfCriminalOrganizations-2016 | a, b |
+| Can agent-based simulation models replicate organised crime? | a, b |
+| Sonzogni_On-the-Interplay-between-Extortion-and-Punishment_Sonzogni-Cecconi-Conte | a, b |
+| Geographical influences of an emerging network of gang rivalries | a, b |
+| Framework_analysis_terr_gp_dynamics | a, b |
+| Statistical_and_Stochastic_Modeling_Gang | a, b |
+| A modified predator–prey model for the interaction of police and gangs | a, b |
+| How Do Terrorist Cells Self-Assemble- Insights from an Agent-Based Model of Radicalization | a, b |
+| Decision System for Robosoccer Agent based on OODA Loop | a, b |
+| Multi-Agent Based Combat Simulation from OODA and Network Perspective | a, b |
+| Modeling civil violence: An agent-based computational approach | a, b |
+| Combat model based on complex network | a, b |
+| Moreno Crime Network | Zach, b | ⭐️ 📊
+
+
+
+
+## Legend for info in table
+⭐️ - very relevant, others should check this out
+
+🙈 - i wish i didn’t read, if two people put this then ~~strike through the title~~
+
+⚙️ - good info for model building (math equs or qualitative info that can easily be turned into math equations)
+
+📕 - good qualitative info to keep in mind or reference in future
+
+📊 - good data source
