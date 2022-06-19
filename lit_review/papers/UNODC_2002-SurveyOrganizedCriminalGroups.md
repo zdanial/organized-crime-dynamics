@@ -6,5 +6,16 @@ put a summary of the abstract here, or just paste a few key sentances
 
 ## Useful Items
 
+- Network Structure/Typology
+    - Standard hierarchy
+    - Regional hierarchy
+    - Clustered hierarchy
+    - Core group
+    - Criminal network
+- Group Profile
+    - Structure
+    - Size
+    - Violence
+    - Ethnic and social identity
 
 ![table of gang attributes](../assets/unodc_table.png)
