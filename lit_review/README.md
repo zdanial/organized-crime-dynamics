@@ -24,6 +24,7 @@ This folder contains the following:
 | ----------- | ----------- | ----------- |
 | Analysis of a cross-diffusion model for rival gangs interaction in a city | a, b |
 | EXTENDED STOCHASTIC BLOCK MODELS WITH APPLICATION TO CRIMINAL NETWORKS | a, b |
+| [Results of a Pilot Survey of Fourty Selected Organized Criminal Groups in Sixteen Countries](./papers/UNODC_2002-SurveyOrganizedCriminalGroups.md) | Zach, b | ⭐️ ⚙️ 📕
 | Organised Crime Typologies- Structure, Activities and Conditions | a, b |
 | Gang Structures, Crime Patterns, and Police Responses | a, b |
 | Dimensions of Gang Issues at the National and International Level | a, b |
