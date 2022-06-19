@@ -18,9 +18,12 @@ This folder contains the following:
 ***
 
 ## Review
+( [link to papers .zip](https://drive.google.com/file/d/1Caj1-BxPCh3UhtOzkxZGo1o9aK6tjBJ6/view?usp=sharing) )
+
 | Title | Reviewers | Info |
 | ----------- | ----------- | ----------- |
 | Analysis of a cross-diffusion model for rival gangs interaction in a city | a, b |
+| EXTENDED STOCHASTIC BLOCK MODELS WITH APPLICATION TO CRIMINAL NETWORKS | a, b |
 | Organised Crime Typologies- Structure, Activities and Conditions | a, b |
 | Gang Structures, Crime Patterns, and Police Responses | a, b |
 | Dimensions of Gang Issues at the National and International Level | a, b |
@@ -43,6 +46,7 @@ This folder contains the following:
 | Modeling civil violence: An agent-based computational approach | a, b |
 | Combat model based on complex network | a, b |
 | [Moreno Crime Network](./papers/Rossi_2015-MorenoCrimeNetwork.md) | Zach, b | ⭐️ 📊
+| [ARTIFICIAL WAR Multiagent-Based Simulation of Combat](./papers/Ilachinski_2004-ArtificialWar.md) | Zach, b | ⭐️ ⚙️
 
 
 
