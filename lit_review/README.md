@@ -3,7 +3,7 @@
 This folder contains the following:
 
 - `./papers` folder with a `.md` file for every paper in the Literature Review.  
-  - Please use the following naming convention `{authorlastname}_{year} - {short title description}.md`
+  - Please use the following naming convention `{authorlastname}_{year}-{ShortTitleDescription}.md`
   - Try to follow the template, but not religiously
   - Do make an effort to link things (paper items to concepts)
 - `./concepts` folder with `.md` files for any important concepts that we identify across multiple papers/sources
@@ -42,7 +42,7 @@ This folder contains the following:
 | Multi-Agent Based Combat Simulation from OODA and Network Perspective | a, b |
 | Modeling civil violence: An agent-based computational approach | a, b |
 | Combat model based on complex network | a, b |
-| Moreno Crime Network | Zach, b | ⭐️ 📊
+| [Moreno Crime Network](./papers/Rossi_2015-MorenoCrimeNetwork.md) | Zach, b | ⭐️ 📊
 
 
 
