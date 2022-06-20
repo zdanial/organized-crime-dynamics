@@ -26,7 +26,7 @@ This folder contains the following:
 | [Modelling social agency using diachronic cognition: learning from the Mafia](./papers/Neumann_2016-ModellingSocialAgencyInMafia.md) | Zach, b | 📕
 | [Moreno Crime Network](./papers/Rossi_2015-MorenoCrimeNetwork.md) | Zach, b | ⭐️ 📊
 | [ARTIFICIAL WAR Multiagent-Based Simulation of Combat](./papers/Ilachinski_2004-ArtificialWar.md) | Zach, b | ⚙️
-| Can agent-based simulation models replicate organised crime? | a, b |
+| [Can agent-based simulation models replicate organised crime?](./papers/Troitzsch_2016_abm_organized_crime.md) | Renjie, b |⭐️,⚙️
 | Analysis of a cross-diffusion model for rival gangs interaction in a city | a, b |
 | EXTENDED STOCHASTIC BLOCK MODELS WITH APPLICATION TO CRIMINAL NETWORKS | a, b |
 | Organised Crime Typologies- Structure, Activities and Conditions | a, b |
