@@ -22,9 +22,13 @@ This folder contains the following:
 
 | Title | Reviewers | Info |
 | ----------- | ----------- | ----------- |
+| [Results of a Pilot Survey of Fourty Selected Organized Criminal Groups in Sixteen Countries](./papers/UNODC_2002-SurveyOrganizedCriminalGroups.md) | Zach, b | ⭐️ ⚙️ 📕
+| [Modelling social agency using diachronic cognition: learning from the Mafia](./papers/Neumann_2016-ModellingSocialAgencyInMafia.md) | Zach, b | 📕
+| [Moreno Crime Network](./papers/Rossi_2015-MorenoCrimeNetwork.md) | Zach, b | ⭐️ 📊
+| [ARTIFICIAL WAR Multiagent-Based Simulation of Combat](./papers/Ilachinski_2004-ArtificialWar.md) | Zach, b | ⚙️
+| Can agent-based simulation models replicate organised crime? | a, b |
 | Analysis of a cross-diffusion model for rival gangs interaction in a city | a, b |
 | EXTENDED STOCHASTIC BLOCK MODELS WITH APPLICATION TO CRIMINAL NETWORKS | a, b |
-| [Results of a Pilot Survey of Fourty Selected Organized Criminal Groups in Sixteen Countries](./papers/UNODC_2002-SurveyOrganizedCriminalGroups.md) | Zach, b | ⭐️ ⚙️ 📕
 | Organised Crime Typologies- Structure, Activities and Conditions | a, b |
 | Gang Structures, Crime Patterns, and Police Responses | a, b |
 | Dimensions of Gang Issues at the National and International Level | a, b |
@@ -32,10 +36,8 @@ This folder contains the following:
 | Recruitment into Organized Crime- An Agent‑Based Approach Testing the Impact of Different Policies | a, b |
 | Countering Protection Rackets Using Legal and Social Approaches- An Agent-Based Test | a, b |
 | Agent-Based Simulation of Organizational Behavior | a, b |
-| Modelling social agency using diachronic cognition- learning from the Mafia | a, b |
 | Simulating protection rackets- a case study of the Sicilian Mafia | a, b |
 | GLODERS-S_ASimulatorForAgentBasedModelsOfCriminalOrganizations-2016 | a, b |
-| Can agent-based simulation models replicate organised crime? | a, b |
 | Sonzogni_On-the-Interplay-between-Extortion-and-Punishment_Sonzogni-Cecconi-Conte | a, b |
 | Geographical influences of an emerging network of gang rivalries | a, b |
 | Framework_analysis_terr_gp_dynamics | a, b |
@@ -46,8 +48,8 @@ This folder contains the following:
 | Multi-Agent Based Combat Simulation from OODA and Network Perspective | a, b |
 | Modeling civil violence: An agent-based computational approach | a, b |
 | Combat model based on complex network | a, b |
-| [Moreno Crime Network](./papers/Rossi_2015-MorenoCrimeNetwork.md) | Zach, b | ⭐️ 📊
-| [ARTIFICIAL WAR Multiagent-Based Simulation of Combat](./papers/Ilachinski_2004-ArtificialWar.md) | Zach, b | ⭐️ ⚙️
+
+
 
 
 
