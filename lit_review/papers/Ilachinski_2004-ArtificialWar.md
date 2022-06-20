@@ -14,4 +14,4 @@ Military conflicts, particularly land combat, possess the characteristics of com
 
 ### The EINSTein Model
 
-- i haven't gotten there yet...
+- i haven't gotten there yet... but will tomorrow
