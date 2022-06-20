@@ -22,7 +22,7 @@ This folder contains the following:
 
 | Title | Reviewers | Info |
 | ----------- | ----------- | ----------- |
-| [Results of a Pilot Survey of Fourty Selected Organized Criminal Groups in Sixteen Countries](./papers/UNODC_2002-SurveyOrganizedCriminalGroups.md) | Zach, b | ⭐️ ⚙️ 📕
+| [Results of a Pilot Survey of Fourty Selected Organized Criminal Groups in Sixteen Countries](./papers/UNODC_2002-SurveyOrganizedCriminalGroups.md) | Zach, Renjie | ⭐️ ⚙️ 📕
 | [Modelling social agency using diachronic cognition: learning from the Mafia](./papers/Neumann_2016-ModellingSocialAgencyInMafia.md) | Zach, b | 📕
 | [Moreno Crime Network](./papers/Rossi_2015-MorenoCrimeNetwork.md) | Zach, b | ⭐️ 📊
 | [ARTIFICIAL WAR Multiagent-Based Simulation of Combat](./papers/Ilachinski_2004-ArtificialWar.md) | Zach, b | ⚙️
