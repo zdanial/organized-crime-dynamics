@@ -27,9 +27,9 @@ This folder contains the following:
 | [Moreno Crime Network](./papers/Rossi_2015-MorenoCrimeNetwork.md) | Zach, b | ⭐️ 📊
 | [ARTIFICIAL WAR Multiagent-Based Simulation of Combat](./papers/Ilachinski_2004-ArtificialWar.md) | Zach, b | ⚙️
 | [Can agent-based simulation models replicate organised crime?](./papers/Troitzsch_2016_abm_organized_crime.md) | Renjie, b |⭐️,⚙️
-| Analysis of a cross-diffusion model for rival gangs interaction in a city | a, b |
-| EXTENDED STOCHASTIC BLOCK MODELS WITH APPLICATION TO CRIMINAL NETWORKS | a, b |
-| Organised Crime Typologies- Structure, Activities and Conditions | a, b |
+| Analysis of a cross-diffusion model for rival gangs interaction in a city | Renjie, b |🙈 Too much math
+| [EXTENDED STOCHASTIC BLOCK MODELS WITH APPLICATION TO CRIMINAL NETWORKS](./papers/Dunson_2020_ESB.md)| Renjie, b |📕
+| Organised Crime Typologies- Structure, Activities and Conditions | Renjie, b |Similar to the UN study 
 | Gang Structures, Crime Patterns, and Police Responses | a, b |
 | Dimensions of Gang Issues at the National and International Level | a, b |
 | An Economic Analysis of a Drug-Selling Gang's Finances | a, b |
